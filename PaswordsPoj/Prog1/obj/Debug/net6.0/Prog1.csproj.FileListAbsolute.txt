@@ -1,0 +1,15 @@
+C:\Users\malya\C#-program\C#\Prog1\Prog1\obj\Debug\net6.0\Prog1.csproj.AssemblyReference.cache
+C:\Users\malya\C#-program\C#\Prog1\Prog1\obj\Debug\net6.0\Prog1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malya\C#-program\C#\Prog1\Prog1\obj\Debug\net6.0\Prog1.AssemblyInfoInputs.cache
+C:\Users\malya\C#-program\C#\Prog1\Prog1\obj\Debug\net6.0\Prog1.AssemblyInfo.cs
+C:\Users\malya\C#-program\C#\Prog1\Prog1\obj\Debug\net6.0\Prog1.csproj.CoreCompileInputs.cache
+C:\Users\malya\C#-program\C#\Prog1\Prog1\bin\Debug\net6.0\Prog1.exe
+C:\Users\malya\C#-program\C#\Prog1\Prog1\bin\Debug\net6.0\Prog1.deps.json
+C:\Users\malya\C#-program\C#\Prog1\Prog1\bin\Debug\net6.0\Prog1.runtimeconfig.json
+C:\Users\malya\C#-program\C#\Prog1\Prog1\bin\Debug\net6.0\Prog1.dll
+C:\Users\malya\C#-program\C#\Prog1\Prog1\bin\Debug\net6.0\Prog1.pdb
+C:\Users\malya\C#-program\C#\Prog1\Prog1\obj\Debug\net6.0\Prog1.dll
+C:\Users\malya\C#-program\C#\Prog1\Prog1\obj\Debug\net6.0\refint\Prog1.dll
+C:\Users\malya\C#-program\C#\Prog1\Prog1\obj\Debug\net6.0\Prog1.pdb
+C:\Users\malya\C#-program\C#\Prog1\Prog1\obj\Debug\net6.0\Prog1.genruntimeconfig.cache
+C:\Users\malya\C#-program\C#\Prog1\Prog1\obj\Debug\net6.0\ref\Prog1.dll
